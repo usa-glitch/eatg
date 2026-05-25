@@ -1,0 +1,1 @@
+mkdir -p src/app/products/\[familySlug\] src/app/careers src/app/explainers src/app/research src/app/statistics src/app/monetary-policy src/app/media src/app/onboarding src/components/UI src/lib
